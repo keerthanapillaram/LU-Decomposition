@@ -1,5 +1,8 @@
 # LU Decomposition 
 
+NAME : P.JESHWANTH KUMAR
+REF.NO : 212223240114
+
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
